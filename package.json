@@ -1,0 +1,25 @@
+{
+  "name": "fakentesmusic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BabyFlower/FakeNTESMusic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BabyFlower/FakeNTESMusic/issues"
+  },
+  "homepage": "https://github.com/BabyFlower/FakeNTESMusic#readme",
+  "dependencies": {
+    "leancloud-storage": "^3.7.3",
+    "plupload": "^2.3.2",
+    "qiniu": "^7.2.1",
+    "qiniu-js": "^1.0.22"
+  }
+}
